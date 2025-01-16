@@ -11,8 +11,8 @@ print(saludo)
 
 texto="Desarrollo Web Profesional"
 print(texto)
-print(texto.lower())  #lowercase
-print(texto.upper())  #uppercase
+print(texto.lower())
+print(texto.upper())
 print(texto.title())
 print(texto.find("Web"))
 print(texto.count("e"))
