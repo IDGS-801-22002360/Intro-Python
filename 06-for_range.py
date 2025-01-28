@@ -15,7 +15,6 @@ res=0
 for j in range(1,11):
     res+=n1
     print(f"{n1}x{j}={res}")
-        
 
 
 #Los Commits van con la fecha del dia y el tema hasta el que se llego
